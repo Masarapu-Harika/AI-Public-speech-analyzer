@@ -1,0 +1,13 @@
+__pycache__/
+venv/
+node_modules/
+.env
+temp/
+uploads/
+instance/
+.kiro/
+*.db
+*.sqlite3
+*.pyc
+Thumbs.db
+.DS_Store
